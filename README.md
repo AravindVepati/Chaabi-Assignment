@@ -43,7 +43,7 @@ Code link- https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi/tree/main
 git clone https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi
 
 ### Space on git
-git clone [<repository-url>](https://github.com/Vedantttgitteee20/LLM_Model_Chaabi)https://github.com/Vedantttgitteee20/LLM_Model_Chaabi
+git clone [<repository-url>](https://github.com/AravindVepati/Chaabi-Assignment)https://github.com/Vedantttgitteee20/LLM_Model_Chaabi
 
 cd LLM_Model_Chaabi
 
