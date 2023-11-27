@@ -4,10 +4,10 @@
 This project demonstrates the use of a BERT-based language model for some task related to Chaabi. The model is hosted using Gradio for easy interaction.
 
 ## Usage
-[link to repository of Bigbasket_Chaabi](https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi/tree/main)
+[link to repository of Bigbasket_Chaabi](https://huggingface.co/spaces/AravindVepati/Chaabi_Assignment/tree/main)
 
 
-You can access the hosted application through this [public link](https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi)-https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi
+You can access the hosted application through this [public link](https://huggingface.co/spaces/AravindVepati/Chaabi_Assignment)
 
 ### Installation
 Make sure to install the required libraries:
@@ -30,7 +30,7 @@ Tried to used sentence-transformers/all-MiniLM-L6-v2
 Preprocessing.ipynb used to preprocess(bert model used)
 
 index.ipynb or app.py in Bigbasket_Chaabi used to host 
-[link to repository of Bigbasket_Chaabi](https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi/tree/main)
+[link to repository of Bigbasket_Chaabi](https://huggingface.co/spaces/AravindVepati/Chaabi_Assignment/tree/main)
 
 
 ## Hosting the Application on Gradio
