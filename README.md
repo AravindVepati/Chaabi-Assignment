@@ -36,14 +36,14 @@ index.ipynb or app.py in Bigbasket_Chaabi used to host
 ## Hosting the Application on Gradio
 This project utilizes Gradio for hosting and interacting with the machine learning models. Gradio is a Python library that simplifies the process of creating user interfaces for machine learning models, making it easy to share and showcase your models with a wider audience.
 
-You can access the hosted application through this public link-https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi/tree/main
+You can access the hosted application through this public link-https://huggingface.co/spaces/AravindVepati/Chaabi_Assignment/tree/main
 
-Code link- https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi/tree/main
+Code link- https://huggingface.co/spaces/AravindVepati/Chaabi_Assignment/tree/main
 ### Space on hugging space
-git clone https://huggingface.co/spaces/VedantGitte/Bigbasket_Chaabi
+git clone https://github.com/AravindVepati/Chaabi-Assignment
 
 ### Space on git
-git clone [<repository-url>](https://github.com/AravindVepati/Chaabi-Assignment)https://github.com/Vedantttgitteee20/LLM_Model_Chaabi
+git clone [<repository-url>](https://github.com/AravindVepati/Chaabi-Assignment)https://github.com/AravindVepati/Chaabi-Assignment
 
 cd LLM_Model_Chaabi
 
